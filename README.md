@@ -1,0 +1,4 @@
+- 한국인 // Korean
+- 컴퓨터 공학 // major computer engineering
+- 취업이 매우 하고싶음 // find a job
+- 첫 프로그래밍 ( 마인크래프트 ) // first programming ( minecraft )
