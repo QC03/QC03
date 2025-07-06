@@ -5,6 +5,10 @@
 현재 **Python, Java, HTML/CSS/JS**를 공부하며 실무 감각을 기르기 위해 프로젝트를 진행 중이며  
 추후 **개발자로서 회사에서 팀원들과 함께 즐거운 개발을 위해 노력**하고 있습니다.
 
+hi Im **Seongjun Joo**, Computer engineering student in Korea  
+Im learning **Python, Java, HTML/CSS/JS** and working on personal projects  
+I hope to be **Best Developer in Korea** — haha!
+
 ---
 
 # 🛠 Stack
