@@ -25,3 +25,9 @@ I hope to be **Best Developer in Korea** — haha!
 - Backend 중심의 FullStack 역량 강화
 - 실제 사용할 수 있는 프로젝트를 지속적으로 개발
 - 개발자 커리어 시작
+
+---
+
+# Contact
+ - Email: qc0306@naver.com  
+ - Discord: joo.__.sj
