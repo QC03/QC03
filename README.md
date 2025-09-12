@@ -21,12 +21,17 @@ I hope to be **Best Developer in Korea** — haha!
 
 # 목표
 
-- 웹 개발 전반에 대한 이해
-- Backend 중심의 FullStack 역량 강화
-- 실제 사용할 수 있는 프로젝트를 지속적으로 개발
-- 개발자 커리어 시작
+- [ ] 웹 개발 전반에 대한 이해
+- [ ] Backend 중심의 FullStack 역량 강화
+- [ ] 실제 사용할 수 있는 프로젝트를 지속적으로 개발
+- [x] 개발자 커리어 시작
 
----
+---  
+  
+# 커리어  
+- 가온랩 외주개발 담당 [ 2025년 8월 23일 ~ 현재 ]
+  
+---  
 
 # Contact
  - Email: qc0306@naver.com  
