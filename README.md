@@ -29,7 +29,7 @@ I hope to be **Best Developer in Korea** — haha!
 ---  
   
 # 커리어  
-- [가온랩](https://gaon-lab.kr/) 외주개발 담당 [ 2025년 8월 23일 ~ 현재 ]
+- [가온랩](https://gaon-lab.kr/) 외주개발 담당 [ 2025년 8월 23일 ~ 2026년 3월 12일 ]
   
 ---  
 
