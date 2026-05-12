@@ -32,6 +32,7 @@ I hope to be **Best Developer in Korea** — haha!
 - [ ] 자바 기반 상용 프로그램 개발
 - [ ] 자바 프로젝트를 C로 구현
 - [ ] 수학관련 프로젝트
+- [ ] 무료 데이터셋을 이용한 간단한 AI 개발
 
 ---  
   
