@@ -16,6 +16,7 @@ I hope to be **Best Developer in Korea** — haha!
 - Python
 - Java
 - HTML/CSS/JS
+- React
 
 ---
 
